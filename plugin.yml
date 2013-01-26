@@ -1,6 +1,7 @@
 name: PlumpXP
 main: com.github.barneygale.PlumpXP.PlumpXP
-version: 0.1
+version: ${project.version}
+description: ${project.description}
 author: Barney Gale
 website: http://github.com/barneygale/PlumpXP
 commands:
